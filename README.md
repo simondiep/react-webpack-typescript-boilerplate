@@ -5,8 +5,8 @@ A minimal boilerplate featuring React 15, Webpack 2, and Typescript 2.  This bra
 
 # To run locally
  - `npm install`
- - `npm run build`
- - Open up build/index.html in your browser
+ - `npm start`
+ - In your browser, navigate to `localhost:3000`
  
 # Notes
 Feel free to choose your own linter and test framework.
