@@ -4,7 +4,7 @@
   "description": "A minimal boilerplate app featuring react, webpack, and typescript",
   "scripts": {
     "clean": "rm -rf ./build/",
-    "prebuild": "npm run lint && npm run clean",
+    "prebuild": "npm run clean",
     "build": "webpack --bail && cp index.html ./build/",
     "typings:install": "typings install --save",
     "postinstall": "rm -rf typings && typings install"
