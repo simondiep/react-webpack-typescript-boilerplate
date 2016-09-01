@@ -1,8 +1,7 @@
 {
   "compilerOptions": {
-    "module": "es6",
+    "module": "commonjs",
     "target": "es5",
-    "allowSyntheticDefaultImports": true,
     "jsx": "react",
     "removeComments": true
   },
